@@ -18,6 +18,7 @@ gem 'devise'
 gem 'omniauth-facebook'
 gem 'twilio-ruby'
 gem 'sinatra', :require => nil
+gem 'pg'
 
 # add websocket gem --matt
 gem 'websocket-rails'
