@@ -139,7 +139,6 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.3)
     jwt (1.5.1)
-    launch (2.0.0)
     launchy (2.4.3)
       addressable (~> 2.3)
     letter_opener (1.4.1)
@@ -344,7 +343,6 @@ DEPENDENCIES
   haml-rails
   jbuilder
   jquery-rails
-  launch
   letter_opener
   omniauth-facebook
   pg
