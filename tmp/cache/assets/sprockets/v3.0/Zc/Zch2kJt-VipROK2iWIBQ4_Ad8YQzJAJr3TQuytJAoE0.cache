@@ -1,0 +1,84 @@
+{:uriI"ßfile://app/assets/javascripts/bower_components/simple-sidebar/demo/ajax/sidebar.html?type=text/html&id=93e523662f0cd64cab7348b06c568d7ff77bcec9d60a67894005797bc13b28da:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/bower_components/simple-sidebar/demo/ajax/sidebar.html;T:	nameI"6bower_components/simple-sidebar/demo/ajax/sidebar;T:logical_pathI";bower_components/simple-sidebar/demo/ajax/sidebar.html;T:content_typeI"text/html;T:sourceI"<div class='section'>
+  <h3>
+    simple-sidebar development
+  </h3>
+</div>
+<div class='section'>
+  <h4>
+    <a href='http://dcdeiv.github.io/simple-sidebar'>> Go Back to the Main Website <</a>
+  </h4>
+</div>
+<div class='section'>
+  <nav>
+    <ul>
+      <li class='close-sb'>
+        <a href='index.html'>Development playground homepage</a>
+      </li>
+      <li class='close-sb'>
+        <a href='static-right.html'>Static Right</a>
+      </li>
+      <li class='close-sb'>
+        <a href='static-left.html'>Static Left</a>
+      </li>
+      <li class='close-sb'>
+        <a href='dynamic-right.html'>Dynamic Right</a>
+      </li>
+      <li class='close-sb'>
+        <a href='dynamic-left.html'>Dynamic Left</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+<div class='section'>
+  <p>wo = without .close-sb class</p>
+  <p>w = with .close-sb class</p>
+</div>
+<nav>
+  <ul>
+    <li class='close-sb'>
+      <a href='#'>Link (w)</a>
+    </li>
+    <li>Not a link (wo)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li>Not a link (wo)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li>Not a link (wo)</li>
+    <li class='close-sb'>
+      <a href='#'>Link (w)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+    <li class='close-sb'>
+      <a href='#'>Link (w)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li>Not a link (wo)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+    <li>
+      <a href='#'>Link (wo)</a>
+    </li>
+    <li class='close-sb'>Not a link (w)</li>
+  </ul>
+</nav>
+;T:metadata{	:dependencieso:Set:
+@hash{
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"`file-digest://app/assets/javascripts/bower_components/simple-sidebar/demo/ajax/sidebar.html;TT:charsetI"
+utf-8;F:digest"%Â”b˝»ﬁ£Gk¡Å´yΩä˛Ô…Ÿùæq–¬Î¡`%h:lengthi:dependencies_digest"%V%—˘ªÂÅ≠@@à}õ\Å–§uœ=ÇUk$,é∏‘:idI"E93e523662f0cd64cab7348b06c568d7ff77bcec9d60a67894005797bc13b28da;F:
+mtimel+YŒ8W

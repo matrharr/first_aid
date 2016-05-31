@@ -1,0 +1,40 @@
+{:uriI"¢file://app/assets/javascripts/bower_components/simple-sidebar/bower.json?type=application/json&id=75b232f87afc86f065b8bc71e13f90c58b7de50fb5f6e2db4b57310e28767b3d:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/bower_components/simple-sidebar/bower.json;T:	nameI"*bower_components/simple-sidebar/bower;T:logical_pathI"/bower_components/simple-sidebar/bower.json;T:content_typeI"application/json;T:sourceI"ç{
+  "name": "simple-sidebar",
+  "version": "2.8.3",
+  "description": "A simple side nav in jQuery",
+  "homepage": "https://github.com/dcdeiv/simple-sidebar",
+  "authors": [
+    "Davide Di Criscito (https://github.com/dcdeiv)"
+  ],
+  "license": "MIT AND GPL-2.0",
+  "keywords": [
+    "simple",
+    "sidebar",
+    "sidenav",
+    "simple-sidebar",
+    "jquery",
+    "plugin",
+    "plug-in",
+    "javascript",
+    "js"
+  ],
+  "main": "dist/jquery.simplesidebar.js",
+  "ignore": [
+    "**./*",
+    "bower_components",
+    "node_modules",
+    "npm-debug.log",
+    "Gruntfile.js",
+    "package.json",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash{
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/bower_components/simple-sidebar/bower.json;TT:charsetI"
+utf-8;F:digest"%Ÿø·j˘ŒO O}-#–ïÓ≈Âú`)t6øMHtŒSS£á:lengthiç:dependencies_digest"%:∑Æ‚
+Ø&µoá˚‰6LÄ’º⁄e•ÛSYÂ≤ØÚ:idI"E75b232f87afc86f065b8bc71e13f90c58b7de50fb5f6e2db4b57310e28767b3d;F:
+mtimel+YŒ8W
