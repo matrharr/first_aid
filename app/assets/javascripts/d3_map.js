@@ -128,7 +128,7 @@ d3.select(window).on("resize", mapSizeChange);
               var dateOfDisaster = new Date(d.date);
               var disaster_date = dateOfDisaster.toLocaleDateString();
 
-          
+
               if(disaster_date === todays_date){
                     if (dateOfDisaster.getTime() > today.getTime()- 18 * 60000){
                       return "green"}
@@ -181,7 +181,7 @@ d3.select(window).on("resize", mapSizeChange);
   //          .attr("class", "disaster_link")
   //          .attr("xlink:href", function(d) {
   //               return "/disasters/" + d.disasters_id;
-  //           }) 
+  //           })
   //          .append("newcircle")
   //          .attr("cx", function(d) {
   //             var coords = projection([d.lon, d.lat]);
@@ -226,7 +226,7 @@ d3.select(window).on("resize", mapSizeChange);
   //            .transition()
   //            .duration(250)
   //            .attr("r", 5)
- 
+
   //          g.selectAll("newcircle").on('mouseover', tip.show)
   //          .on('mouseout', tip.hide)
 
@@ -290,7 +290,7 @@ setInterval(disasters, 30000);
 //       function callback(results, status) {
 //         console.log(results)
 //       }
-    
-//   } 
+
+//   }
 
 }
